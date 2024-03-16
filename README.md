@@ -130,3 +130,28 @@ The technical implementation of the project involves several key steps, includin
 - Deployment considerations include scalability, reliability, and performance optimization to ensure smooth operation under varying usage loads.
 - Monitoring and maintenance procedures are implemented to track application performance, address issues, and update components as needed.
 - By following this technical implementation workflow, the project can successfully generate handwritten-style text and integrate it into PDF documents, providing a valuable tool for users to create personalized and visually appealing content.
+
+![Flow chart](https://github.com/pathanasif1015/VH083-Innovators-Vashisht-Hackathon-IIITDM/assets/123537588/56f78934-4240-4c48-95d6-936a1f913e10)
+
+## TECHSTACKS USED
+`Tensorflow` , `PyTorch` , `GANs` , `RNNs` , `NLTK` , `SpaCy` , `ReportLab` , `Flask` , `Django` , `React.js` , `Vue.js` , `Python` , `JavaScript` , `Numpy` , `Pandas` , `Git` , `Docker`
+
+## HOW TO RUN LOCALLY
+
+- **Clone the repository** : First, you need to clone the repository from GitHub to your local machine. You can do this using the following command in your terminal or command prompt:
+```
+  git clone <https://github.com/pathanasif1015/VH083-Innovators-Vashisht-Hackathon-IIITDM>
+```
+- **Install Dependecies** : Navigate to the project directory and install any dependencies required by the project. This typically involves using a package manager like pip for Python projects or npm for JavaScript projects. Look for a requirements.txt file for Python projects or a package.json file for Node.js projects to identify the dependencies.
+
+```
+  cd project-directory
+pip install -r requirements.txt
+```
+- **Configure Environment:** Some projects might require you to set up environment variables or configuration files. Refer to the project documentation or README file for instructions on how to set up the environment.
+
+- **Run the Application**: Once dependencies are installed and the environment is configured, you can run the application. This could involve running a script, starting a server, or executing a specific command depending on the project.
+ ```
+ python app.py
+```
+- **Access the Application:** Once the application is running locally, you can access it using a web browser or any other appropriate client. The application might run on localhost or a specific IP address and port number. Check the project documentation or console output for details on how to access the application.
