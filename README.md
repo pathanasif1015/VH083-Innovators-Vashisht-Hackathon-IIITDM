@@ -43,3 +43,6 @@ fpdf: fpdf is a library for generating PDF files in Python. In this code, fpdf i
 PyQt5: PyQt5 is a set of Python bindings for the Qt application framework. It allows Python programmers to create GUI applications. In this code, PyQt5 is used to create a GUI window for entering and searching student records in a database. PyQt5 classes such as QMainWindow, QDialog, QPushButton, QLabel, QLineEdit, QComboBox, QTableWidget, and layout managers like QGridLayout and QVBoxLayout are used to design and layout the GUI components.
 
 SQLite3: SQLite3 is a lightweight, serverless database engine that is included as part of the Python standard library. In this code, SQLite3 is used to create and interact with a simple relational database (sdms.db) for storing student and faculty records. The sqlite3 module is used to connect to the database, execute SQL queries, and manipulate data.
+
+
+![WhatsApp Image 2024-03-15 at 4 09 17 PM](https://github.com/pathanasif1015/VH083-Innovators-Vashisht-Hackathon-IIITDM/assets/123537588/309cef60-1f23-4dc2-b252-28248b9f2e39)
