@@ -549,3 +549,8 @@ Train the recognition system on diverse handwriting styles to ensure robust perf
  
 - **SAMPLE INTERFACE OF FUTURE WORK FOR UPLOADING OWN HAND-WRITING**
   
+![image](https://github.com/pathanasif1015/VH083-Innovators-Vashisht-Hackathon-IIITDM/assets/123537588/7073d821-0c25-4fc8-bb89-f2204b63b89f)
+
+## DECARATION
+
+We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
