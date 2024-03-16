@@ -494,7 +494,58 @@ if __name__ == '__main__':
 
 **Running in CMD**
 
+![Screenshot (2)](https://github.com/pathanasif1015/VH083-Innovators-Vashisht-Hackathon-IIITDM/assets/123537588/f33b75ba-2d0e-481e-89d8-4854f176bec4)
+
+**Interface Design**
+
+![Screenshot (3)](https://github.com/pathanasif1015/VH083-Innovators-Vashisht-Hackathon-IIITDM/assets/123537588/c2bc918d-7c7b-4c6c-a288-7875067471a3)
 
 **Sample text data**
 
+![Screenshot (4)](https://github.com/pathanasif1015/VH083-Innovators-Vashisht-Hackathon-IIITDM/assets/123537588/d77466a4-bcff-464c-8fe9-770fd72802df)
+
 **Generated Hand-Writing**
+
+![Screenshot (5)](https://github.com/pathanasif1015/VH083-Innovators-Vashisht-Hackathon-IIITDM/assets/123537588/e1c614de-f665-412a-bbbf-27827a9ebe29)
+
+## WHAT'S NEXT
+
+Expanding the project to create a website and app where users can access their own handwriting by uploading their handwritten fonts is an exciting future plan. Here are some key steps and considerations for implementing this feature:
+
+- **User Interface Design:**
+   - Design a user-friendly interface for both the website and the mobile app, allowing users to easily upload their handwritten samples.
+Consider implementing features such as drag-and-drop functionality or camera integration for capturing handwritten samples directly from mobile devices.
+Handwriting Recognition System:
+   - Develop or integrate a handwriting recognition system that can process the uploaded handwritten samples.
+Utilize machine learning techniques, such as deep learning models or GANs, to accurately recognize and digitize the handwritten text.
+Train the recognition system on diverse handwriting styles to ensure robust performance across different users.
+
+- **Font Generation:**
+
+   - Once the handwriting is recognized, generate a digital font based on the user's handwriting style.
+   - Implement algorithms to convert the recognized handwriting into vector-based font glyphs.
+   - Provide customization options for users to adjust parameters such as stroke thickness, spacing, and alignment to personalize their fonts.
+
+- **Preview and Download:**
+   - Offer users the ability to preview their generated fonts in real-time.
+   - Allow users to download the generated fonts in various formats compatible with popular design software or word processors.
+
+- **User Authentication and Privacy:**
+   - Implement user authentication mechanisms to secure user accounts and access to generated fonts.
+   - Ensure compliance with data privacy regulations and provide users with control over their data and uploaded content.
+
+- **Cross-Platform Compatibility:**
+   - Ensure that the website and mobile app are compatible with a wide range of devices and operating systems.
+   - Optimize the user experience for both desktop and mobile users.
+     
+- **Community and Sharing Features:**
+   - Create a platform where users can share their generated fonts with others in the community.
+   - Implement social features such as liking, commenting, and sharing to encourage user engagement and collaboration.
+     
+- **Feedback and Improvement:**
+   - Collect user feedback to continuously improve the handwriting recognition accuracy and font generation quality.
+   - Iterate on the system based on user suggestions and usage patterns to enhance the overall user experience.
+
+ 
+- **SAMPLE INTERFACE OF FUTURE WORK FOR UPLOADING OWN HAND-WRITING**
+  
